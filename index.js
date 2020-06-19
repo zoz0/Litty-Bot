@@ -96,6 +96,13 @@ bot.on('message', msg=>{
     else if (msg.content.toLowerCase() === 'Dijinn')
     msg.reply('dijenerate');
 
+    else if (msg.content.toLowerCase() === 'Baz')
+    msg.reply('ew');
+
+    else if (msg.content.toLowerCase() === 'baz')
+    msg.reply('ew');
+
+
 
             
 
