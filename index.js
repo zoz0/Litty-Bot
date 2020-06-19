@@ -75,6 +75,7 @@ bot.on('message', msg=>{
     msg.reply('yeh');
 
     else if (msg.content.toLowerCase() === 'Hemzero')
+    
   msg.reply('yeh');
 
     else if (msg.content.toLowerCase() === 'Persona')
