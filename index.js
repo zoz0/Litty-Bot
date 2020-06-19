@@ -102,6 +102,12 @@ bot.on('message', msg=>{
     else if (msg.content.toLowerCase() === 'baz')
     msg.reply('ew');
 
+    else if (msg.content.toLowerCase() === 'boobs')
+    msg.reply('(.)(.)');
+
+    else if (msg.content.toLowerCase() === 'Boobs')
+    msg.reply('(.)(.)');
+
 
 
             
