@@ -90,6 +90,12 @@ bot.on('message', msg=>{
     else if (msg.content.toLowerCase() === 'Icy')
     msg.reply('icy is a simp');
 
+    else if (msg.content.toLowerCase() === 'dijinn')
+    msg.reply('dijenerate');
+
+    else if (msg.content.toLowerCase() === 'Dijinn')
+    msg.reply('dijenerate');
+
 
             
 
