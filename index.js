@@ -75,7 +75,21 @@ bot.on('message', msg=>{
     msg.reply('yeh');
 
     else if (msg.content.toLowerCase() === 'Hemzero')
-    msg.reply('yeh');
+  msg.reply('yeh');
+
+    else if (msg.content.toLowerCase() === 'Persona')
+    msg.reply('litty');
+
+    else if (msg.content.toLowerCase() === 'persona')
+    msg.reply('litty');
+
+    else if (msg.content.toLowerCase() === 'icy')
+    msg.reply('icy is a simp');
+
+    else if (msg.content.toLowerCase() === 'Icy')
+    msg.reply('icy is a simp');
+
+
             
 
 
