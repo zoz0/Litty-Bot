@@ -123,7 +123,7 @@ bot.on('message', msg=>{
     else if (msg.content.toLowerCase() === 'Onizukapls')
     msg.reply('Sharmutas destroyer');
 
-    else if (msg.content.toLowerCase() === 'Onizukapls')
+    else if (msg.content.toLowerCase() === 'onizukapls')
     msg.reply('Sharmutas destroyer');
 
     else if (msg.content.toLowerCase() === 'Zohan')
