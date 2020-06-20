@@ -97,16 +97,22 @@ bot.on('message', msg=>{
     msg.reply('dijenerate');
 
     else if (msg.content.toLowerCase() === 'Baz')
-    msg.reply('ew');
+    msg.reply('scuffed witcher');
 
     else if (msg.content.toLowerCase() === 'baz')
-    msg.reply('ew');
+    msg.reply('scuffed witcher');
 
     else if (msg.content.toLowerCase() === 'boobs')
     msg.reply('(.)(.)');
 
     else if (msg.content.toLowerCase() === 'Boobs')
     msg.reply('(.)(.)');
+
+    else if (msg.content.toLowerCase() === 'Tupac')
+    msg.reply('ayo watch your rat mods');
+
+    else if (msg.content.toLowerCase() === 'tupac')
+    msg.reply('ayo watch your rat mods');
 
 
 
