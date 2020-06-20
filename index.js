@@ -114,8 +114,35 @@ bot.on('message', msg=>{
     else if (msg.content.toLowerCase() === 'tupac')
     msg.reply('ayo watch your rat mods');
 
+    else if (msg.content.toLowerCase() === 'Oni')
+    msg.reply('which one ?');
 
+    else if (msg.content.toLowerCase() === 'oni')
+    msg.reply('which one ?');
 
+    else if (msg.content.toLowerCase() === 'Onizukapls')
+    msg.reply('Sharmutas destroyer');
+
+    else if (msg.content.toLowerCase() === 'Onizukapls')
+    msg.reply('Sharmutas destroyer');
+
+    else if (msg.content.toLowerCase() === 'Zohan')
+    msg.reply('unmute me fam');
+
+    else if (msg.content.toLowerCase() === 'zohan')
+    msg.reply('unmute me fam');
+
+    else if (msg.content.toLowerCase() === 'Den')
+    msg.reply('The rat');
+
+    else if (msg.content.toLowerCase() === 'den')
+    msg.reply('The rat');
+
+    else if (msg.content.toLowerCase() === 'Eraq')
+    msg.reply('Ex simp king');
+
+    else if (msg.content.toLowerCase() === 'eraq')
+    msg.reply('Ex simp king');
             
 
 
