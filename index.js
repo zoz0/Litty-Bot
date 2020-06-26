@@ -56,9 +56,6 @@ bot.on('message', msg=>{
     else if (msg.content.toLowerCase() === 'zoz')
     msg.reply('zoz is a jew lamo');
 
-    else if (msg.content.toLowerCase() === 'Zoz')
-    msg.reply('Zoz is a jew lamo');
-
     else if (msg.content.toLowerCase() === 'drogo')
     msg.reply('who?');
 
@@ -143,6 +140,19 @@ bot.on('message', msg=>{
 
     else if (msg.content.toLowerCase() === 'eraq')
     msg.reply('Ex simp king');
+
+    else if (msg.content.toLowerCase() === 'Altan')
+    msg.reply('The brave kurdish warrior');
+
+    else if (msg.content.toLowerCase() === 'altan')
+    msg.reply('The brave kurdish warrior');
+
+    else if (msg.content.toLowerCase() === 'Repo')
+    msg.reply('GN');
+
+    else if (msg.content.toLowerCase() === 'repo')
+    msg.reply('GN');
+            
             
 
 
