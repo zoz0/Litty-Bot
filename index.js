@@ -159,6 +159,12 @@ bot.on('message', msg=>{
     else if (msg.content.toLowerCase() === 'roo')
     msg.reply('My waifu but tall af');
 
+    else if (msg.content.toLowerCase() === 'Juman')
+    msg.reply('The pig');
+
+    else if (msg.content.toLowerCase() === 'juman')
+    msg.reply('The pig');
+
 
             
             
