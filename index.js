@@ -152,6 +152,14 @@ bot.on('message', msg=>{
 
     else if (msg.content.toLowerCase() === 'repo')
     msg.reply('GN');
+
+    else if (msg.content.toLowerCase() === 'Roo')
+    msg.reply('My waifu but tall af');
+
+    else if (msg.content.toLowerCase() === 'roo')
+    msg.reply('My waifu but tall af');
+
+
             
             
 
