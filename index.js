@@ -165,6 +165,13 @@ bot.on('message', msg=>{
     else if (msg.content.toLowerCase() === 'juman')
     msg.reply('The pig');
 
+    else if (msg.content.toLowerCase() === 'Dani')
+    msg.reply('The cutie');
+
+    else if (msg.content.toLowerCase() === 'dani')
+    msg.reply('The cutie');
+
+
 
             
             
