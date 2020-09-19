@@ -153,11 +153,6 @@ bot.on('message', msg=>{
     else if (msg.content.toLowerCase() === 'repo')
     msg.reply('GN');
 
-    else if (msg.content.toLowerCase() === 'Roo')
-    msg.reply('My waifu but tall af');
-
-    else if (msg.content.toLowerCase() === 'roo')
-    msg.reply('My waifu but tall af');
 
     else if (msg.content.toLowerCase() === 'Juman')
     msg.reply('The pig');
@@ -171,7 +166,11 @@ bot.on('message', msg=>{
     else if (msg.content.toLowerCase() === 'dani')
     msg.reply('The cutie');
 
+    else if (msg.content.toLowerCase() === 'Ethel')
+    msg.reply('wa yo doin?');
 
+    else if (msg.content.toLowerCase() === 'ethel')
+    msg.reply('wa yo doin?');
 
             
             
