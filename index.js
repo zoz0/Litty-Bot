@@ -172,7 +172,11 @@ bot.on('message', msg=>{
     else if (msg.content.toLowerCase() === 'ethel')
     msg.reply('wa yo doin?');
 
-            
+    else if (msg.content.toLowerCase() === 'Swaggo')
+    msg.reply('swaggo more like.... swag o LAMO');
+
+    else if (msg.content.toLowerCase() === 'swaggo')
+    msg.reply('swaggo more like.... swag o LAMO');       
             
 
 
