@@ -20,12 +20,6 @@ bot.on('message', msg=>{
     else if (msg.content.toLowerCase() === 'Lena')
     msg.reply('Lena is cute');
 
-    else if (msg.content.toLowerCase() === 'Cute')
-    msg.reply('Lena is Cute <3');
-            
-    else if (msg.content.toLowerCase() === 'cute')
-    msg.reply('Lena is cute <3');
-
     else if (msg.content.toLowerCase() === 'Litty')
     msg.reply('LITTY GANG BANG');
 
@@ -177,6 +171,28 @@ bot.on('message', msg=>{
 
     else if (msg.content.toLowerCase() === 'swaggo')
     msg.reply('swaggo more like.... swag o LAMO');       
+    
+    else if (msg.content.toLowerCase() === 'Roz')
+    msg.reply('roz more like a dumb little mango');
+
+    else if (msg.content.toLowerCase() === 'roz')
+    msg.reply('roz more like a dumb little mango');    
+    
+    else if (msg.content.toLowerCase() === 'Sara')
+    msg.reply('Sara more like Kara LMAO');
+
+    else if (msg.content.toLowerCase() === 'sara')
+    msg.reply('Sara more like kara LMAO');    
+    
+    else if (msg.content.toLowerCase() === 'Sam')
+    msg.reply('اللههههههههه يسلمكككك');
+
+    else if (msg.content.toLowerCase() === 'sam')
+    msg.reply('اللههههههههه يسلمكككك');   
+    
+    
+    
+    
             
 
 
