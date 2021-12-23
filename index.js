@@ -190,6 +190,37 @@ bot.on('message', msg=>{
     else if (msg.content.toLowerCase() === 'sam')
     msg.reply('اللههههههههه يسلمكككك');   
     
+    else if (msg.content.toLowerCase() === 'Tahnoon')
+    msg.reply('do you mean tahani? yeah she is cute');
+
+    else if (msg.content.toLowerCase() === 'tahnoon')
+    msg.reply('do you mean tahani? yeah she is cute');   
+    
+    else if (msg.content.toLowerCase() === 'Tala')
+    msg.reply('Tala more like shotra lmao');
+
+    else if (msg.content.toLowerCase() === 'tala')
+    msg.reply('Tala more like shotra lmao');   
+    
+    else if (msg.content.toLowerCase() === 'Fayhan')
+    msg.reply('undercover fbi');
+
+    else if (msg.content.toLowerCase() === 'fayhan')
+    msg.reply('undercover fbi');   
+    
+    else if (msg.content.toLowerCase() === 'Sackboy')
+    msg.reply('the forehead master');
+
+    else if (msg.content.toLowerCase() === 'sackboy')
+    msg.reply('the forehead master');   
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
