@@ -15,7 +15,7 @@ bot.on('message', msg=>{
     msg.reply('its not lmao, ITS LAMO');
 
     else if (msg.content.toLowerCase() === 'Zoz')
-    msg.reply('Zoz is arab lamo');
+    msg.reply('Zoz is a jew lamo');
 
     else if (msg.content.toLowerCase() === 'zoz')
     msg.reply('zoz is a jew lamo');
@@ -61,10 +61,11 @@ bot.on('message', msg=>{
 
     else if (msg.content.toLowerCase() === 'sackboy')
     msg.reply('the forehead master');   
-    
-    
-    
-    
+      
+    else if (msg.content.toLowerCase() === 'Skancher')
+    msg.reply('he is not out of the closet, the closet is out of him');
+
+
     
     
     
