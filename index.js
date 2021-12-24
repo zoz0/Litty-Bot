@@ -45,10 +45,10 @@ bot.on('message', msg=>{
     msg.reply('do you mean tahani? yeah she is cute');   
     
     else if (msg.content.toLowerCase() === 'Tala')
-    msg.reply('Tala more like shotra lmao');
+    msg.reply('Tala more like shorta lmao');
 
     else if (msg.content.toLowerCase() === 'tala')
-    msg.reply('Tala more like shotra lmao');   
+    msg.reply('Tala more like shorta lmao');   
     
     else if (msg.content.toLowerCase() === 'Fayhan')
     msg.reply('undercover fbi');
@@ -65,6 +65,15 @@ bot.on('message', msg=>{
     else if (msg.content.toLowerCase() === 'Skancher')
     msg.reply('he is not out of the closet, the closet is out of him');
 
+    else if (msg.content.toLowerCase() === 'skancher')
+    msg.reply('he is not out of the closet, the closet is out of him');
+
+
+    else if (msg.content.toLowerCase() === 'Mari')
+    msg.reply('the most submissive person in the multiverse');
+
+    else if (msg.content.toLowerCase() === 'mari')
+    msg.reply('the most submissive person in the multiverse');
 
     
     
